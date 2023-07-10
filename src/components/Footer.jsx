@@ -9,22 +9,22 @@ const Footer = () => {
       <ul className="flex justify-evenly w-1/2 max-w-[900px]">
         <li>
           <a href="/">
-            <FaLinkedin size={25} />
+            <FaLinkedin />
           </a>
         </li>
         <li>
           <a href="/">
-            <FaGithub size={25} />
+            <FaGithub />
           </a>
         </li>
         <li>
           <a href="/">
-            <BsFillPersonLinesFill size={25} />
+            <BsFillPersonLinesFill />
           </a>
         </li>
         <li>
           <a href="/">
-            <HiOutlineMail size={25} />
+            <HiOutlineMail />
           </a>
         </li>
       </ul>
