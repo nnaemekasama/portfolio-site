@@ -5,7 +5,7 @@ import { HiOutlineMail } from "react-icons/hi"
 
 const Footer = () => {
   return (
-    <div className=" lg:hidden w-full h-[80px] flex justify-center items-center px-4 bg-[#0a192f] text-gray-300">
+    <div className=" lg:hidden w-full h-[50px] flex justify-center items-center px-4 bg-[#0a192f] text-gray-300">
       <ul className="flex justify-evenly w-1/2 max-w-[900px]">
         <li>
           <a href="/">
