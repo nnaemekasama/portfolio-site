@@ -98,7 +98,7 @@ const Navbar = () => {
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
-              href="/"
+              href="https://www.linkedin.com/in/nnaemeka-nnodim-717b9b199/"
               className=" flex justify-between items-center w-full text-gray-300"
             >
               Linkedln
@@ -107,7 +107,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
-              href="/"
+              href="https://github.com/nnaemekasama"
               className=" flex justify-between items-center w-full text-gray-300"
             >
               Github
@@ -116,7 +116,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500">
             <a
-              href="/"
+              href="mailto:mannynnodim@gmail.com"
               className=" flex justify-between items-center w-full text-gray-300"
             >
               Email
@@ -125,7 +125,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
-              href="/"
+              href="https://docs.google.com/document/d/1KD6DBstzk8NFQAlOr2Cv5aNf_JX3fEVdP5xCX-_SG08/edit?usp=sharing"
               className=" flex justify-between items-center w-full text-gray-300"
             >
               Resume

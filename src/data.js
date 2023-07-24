@@ -10,16 +10,17 @@ import Mongo from "./assets/mongo.png"
 
 import WorkImg from "./assets/projects/workImg.jpeg"
 import realEstate from "./assets/projects/realestate.jpg"
+import MyStore from "./assets/projects/mystore.png"
 
 export const projects = [
   {
-    title: "React Reserve",
+    title: "ProStore",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
+      "A MERN Stack Project built with React, Express, Mongodb, Nodejs, Bootstrap and Redux",
+    image: MyStore,
+    link: "https://prostore-iota.vercel.app/",
+    code: "https://github.com/nnaemekasama/frontend-ecommerce",
   },
   {
     title: "React Tracks",
@@ -33,24 +34,6 @@ export const projects = [
   {
     title: "DevChat",
     subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: WorkImg,
