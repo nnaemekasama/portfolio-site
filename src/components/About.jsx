@@ -11,17 +11,20 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div className="max-w-[1000px] w-full  grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-4xl font-bold">
-            <p className="">
-              Hi, I'm Emeka, nice to meet you please take a look around
-            </p>
-          </div>
+        <div className="max-w-[1000px] w-full  grid  px-4">
           <div>
-            <p>
-              lorem ipsum lorem ipsum lorem ipsum lorem ipsum i am lorem ipsum
-              loremi lorem ipsumhhh hhhj jjjfofoooonggjhhffjf dnjdjdjid
-              djjdbfjrdekoioiiok
+            <p className="text-lg">
+              I am a detail-oriented frontend developer with expertise in
+              designing visually appealing and responsive websites. My skills
+              encompass modern technologies like React, Redux, and React Router,
+              and I have a solid grasp of HTML, CSS, and JavaScript. Experienced
+              in integrating APIs and using GitHub for version control, I am
+              eager to secure a junior position where I can apply my knowledge
+              in creating user-friendly websites. My portfolio showcases
+              projects that highlight my strong problem-solving abilities and my
+              commitment to staying updated with the latest industry best
+              practices. Constantly seeking to learn and improve, I am dedicated
+              to delivering high-quality work in every project.
             </p>
           </div>
         </div>
