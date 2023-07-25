@@ -17,7 +17,7 @@ export const projects = [
     title: "ProStore",
     subtitle: "MERN Stack",
     description:
-      "A MERN Stack Project built with React, Express, Mongodb, Nodejs, Bootstrap and Redux",
+      "An eCommerce web application with a user authentication system, paystack for payments, and admin functionalities (MERN stack)",
     image: MyStore,
     link: "https://prostore-iota.vercel.app/",
     code: "https://github.com/nnaemekasama/frontend-ecommerce",
