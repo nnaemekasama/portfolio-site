@@ -14,17 +14,18 @@ const About = () => {
         <div className="max-w-[1000px] w-full  grid  px-4">
           <div>
             <p className="text-lg">
-              I am a detail-oriented frontend developer with expertise in
-              designing visually appealing and responsive websites. My skills
-              encompass modern technologies like React, Redux, and React Router,
-              and I have a solid grasp of HTML, CSS, and JavaScript. Experienced
-              in integrating APIs and using GitHub for version control, I am
-              eager to secure a junior position where I can apply my knowledge
-              in creating user-friendly websites. My portfolio showcases
-              projects that highlight my strong problem-solving abilities and my
-              commitment to staying updated with the latest industry best
-              practices. Constantly seeking to learn and improve, I am dedicated
-              to delivering high-quality work in every project.
+              I, who? I'm Nnodim Nnaemeka, also known as Emeka, a frontend
+              developer from West Africa, currently residing in Owerri, Nigeria.
+              I enjoy building aesthetic and functional user interfaces via
+              writing code. I've always had a keen interest in computers and
+              technologies, and during the pandemic in 2020 I made the decision
+              to start learning web development, and ever since then I've been
+              learning, honing my web development skills, and keeping an open
+              mind. I've worked with a lot of technologies, some of which are
+              listed in the Skill Section. Right now, I'm open to full-time,
+              part-time, or internship roles that would allow me to showcase
+              what I've learnt so far in my Web Development journey and also,
+              gain real-world experience.
             </p>
           </div>
         </div>
