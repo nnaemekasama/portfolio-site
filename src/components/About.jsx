@@ -22,7 +22,7 @@ const About = () => {
 
             <p>
               {" "}
-              I build aesthetic and functional user interfaces via writing code.{" "}
+              I build aesthetic and functional user interfaces by writing code.{" "}
             </p>
 
             <p>

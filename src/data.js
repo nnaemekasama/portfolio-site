@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "Moviebox",
-    stacks: ["ReactJS", "RestAPI", "React-Router"],
+    stacks: ["ReactJS", "API", "React-Router"],
     description:
       "My primary goal with Moviebox is to create a movie discovery platform that empowers users to effortlessly search for movies, access detailed information about them, and even save their favorite flicks. We've integrated the powerful TMDB API to ensure that you have access to a vast catalog of movies.",
     image: movie,
