@@ -8,46 +8,47 @@ import GitHub from "./assets/github.png"
 import Tailwind from "./assets/tailwind.png"
 import Mongo from "./assets/mongo.png"
 
-import WorkImg from "./assets/projects/workImg.jpeg"
-import realEstate from "./assets/projects/realestate.jpg"
 import MyStore from "./assets/projects/mystore.png"
+import movie from "./assets/projects/movie.png"
+import form from "./assets/projects/form.png"
+import realestate from "./assets/projects/realEstate.png"
 
 export const projects = [
   {
     title: "ProStore",
-    subtitle: "MERN Stack",
+    stacks: ["MERN", "React-Router", "Bootstrap"],
     description:
-      "An eCommerce web application with a user authentication system, paystack for payments, and admin functionalities (MERN stack)",
+      "I played a central role in developing a comprehensive eCommerce web application, leveraging the MERN stack. Key project components included user authentication, seamless Paystack payment integration, and the implementation of vital admin functionalities. Bootstrap was employed for styling to create an attractive and user-friendly interface. The project aimed to provide a secure, user-centric, and feature-rich eCommerce platform, benefiting both customers and administrators.",
     image: MyStore,
     link: "https://prostore-iota.vercel.app/",
     code: "https://github.com/nnaemekasama/frontend-ecommerce",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Moviebox",
+    stacks: ["ReactJS", "RestAPI", "React-Router"],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
+      "My primary goal with Moviebox is to create a movie discovery platform that empowers users to effortlessly search for movies, access detailed information about them, and even save their favorite flicks. We've integrated the powerful TMDB API to ensure that you have access to a vast catalog of movies.",
+    image: movie,
+    link: "https://movie-box-h6i6.vercel.app/",
+    code: "https://github.com/nnaemekasama/movieBox",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "RealEstate ",
+    stacks: ["ReactJS", "Swiper.js"],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
+      "This project served as an excellent opportunity to learn, experiment, and showcase a wide range of web development skills. From the initial setup with Vite to the implementation of responsive design, React, Swiper JS, and Framer Motion, this project demonstrated a commitment to continuous learning and improvement. It stands as a testament to my dedication to crafting not only functional but visually captivating web experiences.",
+    image: realestate,
+    link: "https://real-estate-homyz.vercel.app/",
+    code: "https://github.com/nnaemekasama/RealEstate",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Multi-Step-Form",
+    stacks: ["ReactJS", "Tailwind", "React Hooks"],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: WorkImg,
-    link: "#",
-    code: "#",
+      "In this project, my goal was to develop a user-friendly multi-step-form. I organized the form steps into separate components for better code management, utilized React's state management for efficient data flow, implemented real-time validation for user inputs, and designed intuitive navigation logic. The project prioritized a user-centric approach, allowing users to complete the form at their own pace, review their choices, and confidently confirm their order after a summary review.",
+    image: form,
+    link: "https://multi-step-form-flax.vercel.app/",
+    code: "https://github.com/nnaemekasama/multi-step-form",
   },
 ]
 
