@@ -12,6 +12,7 @@ import MyStore from "./assets/projects/mystore.png"
 import movie from "./assets/projects/movie.png"
 import form from "./assets/projects/form.png"
 import realestate from "./assets/projects/realEstate.png"
+import galleria from "./assets/projects/galleria.png"
 
 export const projects = [
   {
@@ -49,6 +50,15 @@ export const projects = [
     image: form,
     link: "https://multi-step-form-flax.vercel.app/",
     code: "https://github.com/nnaemekasama/multi-step-form",
+  },
+  {
+    title: "CoverGalleria",
+    stacks: ["ReactJS", "DND Kit", "Firebase"],
+    description:
+      "An application that allows users to manage and organize their images. This project combines the power of React for creating dynamic user interfaces, Firebase for user authentication, and drag-and-drop functionality to create a user-friendly image gallery with a seamless experience.",
+    image: galleria,
+    link: "https://hng-stage-3-ten.vercel.app/",
+    code: "https://github.com/nnaemekasama/hng-stage-3",
   },
 ]
 
